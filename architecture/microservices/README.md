@@ -18,6 +18,15 @@
   </div>
 </div>
 
+## 开源框架
+
+- [Tars.js](https://github.com/tars-node/Tars.js)
+
+## 参考书籍
+
+- [《微服务治理：体系、架构及实践》](https://book.douban.com/subject/35092430/)
+- [《生产微服务》](https://book.douban.com/subject/27127050/)
+
 ## 参考文献
 
 - [什么是微服务架构？](https://www.zhihu.com/question/65502802/answer/802678798)
