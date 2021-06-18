@@ -1,0 +1,7 @@
+nginx:
+  image: nginx:latest
+  ports:
+    - "127.0.0.1:8080:80"
+  volumes:
+    - ./public:/usr/share/nginx/html
+    - ./config:/etc/nginx 
