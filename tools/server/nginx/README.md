@@ -41,6 +41,10 @@ https://tengine.taobao.org/nginx_docs/cn/docs/http/ngx_http_core_module.html#var
 - [ngx_http_proxy_module](https://tengine.taobao.org/nginx_docs/cn/docs/http/ngx_http_proxy_module.html)
 - [nginx 之 proxy_pass详解](https://www.jianshu.com/p/b010c9302cd0)
 
+### 二级域名解析
+
+- [在 Nginx 中配置二级域名](https://mincong.io/2021/05/29/nginx-subdomains/)
+
 ## 进阶
 
 ### 容器
