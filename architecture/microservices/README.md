@@ -30,3 +30,4 @@
 ## 参考文献
 
 - [什么是微服务架构？](https://www.zhihu.com/question/65502802/answer/802678798)
+- [Java 微服务框架选型（Dubbo 和 Spring Cloud？）](https://www.cnblogs.com/xishuai/p/dubbo-and-spring-cloud.html)
