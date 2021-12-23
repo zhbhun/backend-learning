@@ -6,7 +6,8 @@
 
 ## 入门
 
-https://tengine.taobao.org/nginx_docs/cn/docs/http/ngx_http_core_module.html#variables
+- https://tengine.taobao.org/nginx_docs/cn/docs/http/ngx_http_core_module.html#variables
+- [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
 
 ### http
 
