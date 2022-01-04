@@ -22,6 +22,12 @@
 
 - [Tars.js](https://github.com/tars-node/Tars.js)
 
+## 常见问题
+
+### 服务通信
+
+- [Best practices to communicate between microservices](https://irfanyusanif.medium.com/how-to-communicate-between-microservices-7956ed68a99a)
+
 ## 参考书籍
 
 - [《微服务治理：体系、架构及实践》](https://book.douban.com/subject/35092430/)
