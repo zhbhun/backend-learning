@@ -1,4 +1,17 @@
 # RPC
 
-- [RPC与MQ的区别以及MQ的使用场景](https://zhuanlan.zhihu.com/p/97841943)
-- [why-mq](https://github.com/doocs/advanced-java/blob/main/docs/high-concurrency/why-mq.md)
+## 技术
+
+- Cobra
+- RMI
+- .NET Remoting
+- WebService
+- JSON-RPC
+- XML-RPC
+- Hessian
+- Thrift
+- Protocol Buffer
+- gRPC
+
+## 参考
+
