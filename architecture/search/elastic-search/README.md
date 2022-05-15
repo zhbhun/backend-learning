@@ -1,0 +1,2 @@
+- [七个生产案例告诉你BATJ为何选择ElasticSearch！应用场景和优势！](https://segmentfault.com/a/1190000022799288)
+- [Elasticsearch搜索应用场景？](https://www.zhihu.com/question/295509005)
