@@ -1,2 +1,3 @@
 - [RPC与MQ的区别以及MQ的使用场景](https://zhuanlan.zhihu.com/p/97841943)
 - [why-mq](https://github.com/doocs/advanced-java/blob/main/docs/high-concurrency/why-mq.md)
+- [What is the difference Message Queue and Message Bus?](https://emirayhan.medium.com/what-is-the-difference-message-queue-and-message-bus-7f2e2867eff6)
