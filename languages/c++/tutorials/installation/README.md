@@ -1,0 +1,2 @@
+- [VSCode配置C/C++环境](https://zhuanlan.zhihu.com/p/87864677)
+- [VScode C++环境配置 （MAC）](https://zhuanlan.zhihu.com/p/486021900)
