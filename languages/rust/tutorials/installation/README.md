@@ -22,7 +22,7 @@
 rustup check
 rustup update
 ```
-## Hello World
+## Hello Rust
 
 ```shell
 cd ./example
@@ -31,7 +31,7 @@ rustc ./hello.rs
 ./hello # Hello, world!
 ```
 
-## cargo
+## Hello Cargo
 
 ```shell
 cargo new hello_cargo # 创建基于 cargo 的项目
