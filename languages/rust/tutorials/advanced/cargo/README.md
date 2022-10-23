@@ -52,7 +52,6 @@ cargo workspaces exec # 执行任务
 cargo workspaces version # 升级任务
 ```
 
-
 ## 参考文献
 
 - [From npm to cargo](https://github.com/wasmflow/node-to-rust/blob/master/book/chapters/chapter-2-cargo.adoc)

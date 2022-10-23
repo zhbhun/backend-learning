@@ -71,7 +71,6 @@ cargo build --release # 发布构建
     - [crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates) - 依赖更新提示
     - [search-crates-io](https://marketplace.visualstudio.com/items?itemName=belfz.search-crates-io) - 依赖自动完成
 
-
 Refs:
 
 - [Setting up Visual Studio Code](https://github.com/wasmflow/node-to-rust/blob/master/book/chapters/chapter-3-vscode.adoc)
