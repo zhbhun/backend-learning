@@ -1,7 +1,4 @@
 fn main() {
-    let y = {
-        let x = 3;
-        x + 1
-    };
-    print!("{y}\n")
+    let y = (1..4).rev();
+    let z = [10;10];
 }
