@@ -42,3 +42,36 @@ cargo run # 构建 + 运行
 cargo check # 在不生成二进制文件的情况下构建项目来检查错误
 cargo build --release # 发布构建
 ```
+
+## 编辑器设置
+
+1. `ext install matklad.rust-analyzer`
+2. Additional linting
+
+    ```json
+    {
+      "rust-analyzer.checkOnSave.command": "clippy"
+    }
+    ```
+
+3. Inlay hints can be disabled
+
+    ```json
+    {
+      "rust-analyzer.inlayHints.enable": false,
+      "rust-analyzer.inlayHints.chainingHints": false,
+      "rust-analyzer.inlayHints.parameterHints": false
+    }
+    ```
+
+4. Additional extensions
+
+    - [vscode-lldb](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - debug 工具
+    - [better-toml](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - TOML 语法支持
+    - [crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates) - 依赖更新提示
+    - [search-crates-io](https://marketplace.visualstudio.com/items?itemName=belfz.search-crates-io) - 依赖自动完成
+
+
+Refs:
+
+- [Setting up Visual Studio Code](https://github.com/wasmflow/node-to-rust/blob/master/book/chapters/chapter-3-vscode.adoc)
