@@ -46,3 +46,40 @@ fn main() {
     // ... 所以 s 到这里不再有效
 }
 ```
+
+## 引用和借用
+
+- 引用（reference）：像一个指针，因为它是一个地址，我们可以由此访问储存于该地址的属于其他变量的数据。 
+
+    创建一个引用的行为称为借用（borrowing）。
+
+    ```rust
+    fn main() {
+        let s1 = String::from("hello");
+
+        let len = calculate_length(&s1);
+
+        println!("The length of '{}' is {}.", s1, len);
+    }
+
+    fn calculate_length(s: &String) -> usize {
+        s.len()
+    }
+    ```
+
+    ps：rust 禁止创建悬垂引用（Dangling References），例如：一个函数不能返回内部创建的数据引用，必须把所有权转移出去。
+
+- 可变引用（（mutable reference））：值在任一时刻有且只有一个所有者，所以不能同时创建两个可变引用，也不能在拥有不可变引用的同时拥有可变引用。
+
+    ```rust
+    fn main() {
+        let mut s = String::from("hello");
+        change(&mut s);
+    }
+
+    fn change(some_string: &mut String) {
+        some_string.push_str(", world");
+    }
+    ```
+
+- slice 引用：允许你引用集合中一段连续的元素序列，而不用引用整个集合。slice 是一类引用，所以它没有所有权。
