@@ -261,3 +261,52 @@ fn main() {
     let sq = Rectangle::square(3);
 }
 ```
+
+## 枚举
+
+- 无绑定值枚举
+
+    ```rust
+    enum IpAddrKind {
+        V4,
+        V6,
+    }
+
+
+    let four = IpAddrKind::V4; // 类型是 IpAddrKind
+    let six = IpAddrKind::V6; // 类型是 IpAddrKind
+
+    fn route(ip_kind: IpAddrKind) {}
+    route(IpAddrKind::V4);
+    route(IpAddrKind::V6);
+    ```
+
+- 有关联值的枚举
+
+
+    ```rust
+    enum IpAddr {
+        V4(u8, u8, u8, u8),
+        V6(String),
+    }
+
+    let home = IpAddr::V4(127, 0, 0, 1);
+
+    let loopback = IpAddr::V6(String::from("::1"));
+    ```
+
+---
+
+标准库枚举
+
+- Option
+
+    ```rust
+    enum Option<T> {
+        None,
+        Some(T),
+    }
+    let some_number = Some(5);
+    let some_char = Some('e');
+    let absent_number: Option<i32> = None;
+    ```

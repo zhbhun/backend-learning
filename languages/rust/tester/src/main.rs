@@ -1,8 +1,8 @@
 fn main() {
-    let mut a = 1;
-    println!("{:p}", &a);
-    a = 2;
-    println!("{:p}", &a);
-    let a = 3;
-    println!("{:p}", &a);
+    enum IpAddrKind {
+        V4,
+        V6,
+    };
+    let four = IpAddrKind::V4;
+    let six = IpAddrKind::V6;
 }
