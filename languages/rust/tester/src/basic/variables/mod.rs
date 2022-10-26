@@ -1,8 +1,19 @@
 #[derive(Debug)]
-pub struct Asparagus {}
+pub struct Square {
+    width: i32,
+    height: i32,
+}
+
+impl Square {
+    fn area(&self) -> i32 {
+        self.width * self.height
+    }
+}
 
 pub fn print() {
-    let mut guess = String::new();
-    let guess = "...";
-    print!("{guess}");
+    let square = Square {
+        width: 100,
+        height: 100,
+    };
+    print!("{}", square.area());
 }
