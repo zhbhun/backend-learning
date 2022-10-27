@@ -1,3 +1,6 @@
+// use crate::basic::temp;
+// use super::temp::*;
+
 #[derive(Debug)]
 pub struct Square {
     width: i32,
@@ -16,4 +19,11 @@ pub fn print() {
         height: 100,
     };
     print!("{}", square.area());
+}
+
+pub fn variables_temp() {
+    // temp_print();
+    // temp::temp_print();
+    super::temp::temp_print();
+    print!("variables");
 }
