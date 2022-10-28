@@ -4,10 +4,20 @@ use crate::basic::variables::*;
 mod basic;
 
 fn main() {
-    print();
-    basic::basic_print();
+    // let mut v = vec![100, 32, 57];
+    // let first = &mut v[0];
+    // *first = 2;
+    // for i in &mut v {
+    //     *i += 50;
+    //     println!("{}", i);
+    // }
+    let mut a = 1;
+    print!("\n1. a: {a} - {:p}", &a);
+    let b = &mut a;
+    *b = 2;
+    print!("\n2. b: {b} - {:p}", &b);
+    print!("\n3. a: {a} - {:p}", &a);
 }
-
 
 mod front_of_house {
     pub mod hosting {
