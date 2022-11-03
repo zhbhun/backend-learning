@@ -17,6 +17,19 @@ fn main() {
     *b = 2;
     print!("\n2. b: {b} - {:p}", &b);
     print!("\n3. a: {a} - {:p}", &a);
+    let ok: Result<i32, i32> = Ok(1);
+    let err: Result<i32, &str>= Err("1");
+    let c = match ok {
+        Ok(value) => {
+            print!("{value}");
+            value
+        }
+        Err(value) => {
+            print!("{value}");
+            value
+
+        }
+    };
 }
 
 mod front_of_house {

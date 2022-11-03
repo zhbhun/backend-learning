@@ -310,3 +310,5 @@ fn main() {
     let some_char = Some('e');
     let absent_number: Option<i32> = None;
     ```
+
+- Result
