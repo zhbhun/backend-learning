@@ -1,1 +1,2 @@
 - [camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Spring, Spring Boot, CDI.
+- [bpmn-js](https://github.com/bpmn-io/bpmn-js)
