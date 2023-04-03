@@ -1,0 +1,1 @@
+- [mypy](https://github.com/python/mypy) - Optional static typing for Python

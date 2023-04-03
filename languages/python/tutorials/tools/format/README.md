@@ -1,1 +1,3 @@
 - [Flake8: Your Tool For Style Guide Enforcement](https://flake8.pycqa.org/en/latest/)
+- [black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [isort](https://github.com/pycqa/isort) - A Python utility / library to sort imports.
