@@ -1,0 +1,2 @@
+- [conda、miniconda、anaconda之间有什么关系？](https://www.zhihu.com/question/369468216)
+- [请问大神们，pip install 和conda install有什么区别吗？](https://www.zhihu.com/question/395145313)

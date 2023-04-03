@@ -1,0 +1,2 @@
+- [Python pip 安装与使用](https://www.runoob.com/w3cnote/python-pip-install-usage.html)
+- [Python中的包管理工具pip的基本使用 ](https://www.cnblogs.com/wenxuehai/p/14298160.html)
