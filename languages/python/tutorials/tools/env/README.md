@@ -11,16 +11,14 @@
 - 激活环境：
 
     ```shell
-    activate py35 # for Windows
-    source activate py35 # for Linux & Mac
+    conda activate py35
     # 激活时系统做的事情就是把默认 2.7 环境从 PATH 中去除，再把 3.5 对应的命令加入 PATH
     ```
 
 - 返回主环境：
 
     ```shell
-    deactivate py35 # for Windows
-    source deactivate py35 # for Linux & Mac
+    conda deactivate py35
     ```
 
 - 删除环境：`conda remove --name py35 --all`
