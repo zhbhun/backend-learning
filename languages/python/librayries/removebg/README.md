@@ -1,0 +1,4 @@
+- [rembg](https://github.com/danielgatis/rembg)
+- https://github.com/nadermx/backgroundremover
+- https://github.com/OPHoperHPO/image-background-remove-tool
+- [Android-CutOut](https://github.com/GabrielBB/Android-CutOut)
