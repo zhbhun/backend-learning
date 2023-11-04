@@ -1,9 +1,19 @@
 - conda
+
+    - https://docs.conda.io/projects/miniconda/en/latest/
+
 - virtualenv
 
 ## conda
 
 - [Conda使用指南](https://zhuanlan.zhihu.com/p/44398592)
+
+### 安装使用
+
+```shell
+brew install --cask miniconda
+conda init zsh
+```
 
 ### 环境管理
 
@@ -18,7 +28,7 @@
 - 返回主环境：
 
     ```shell
-    conda deactivate py35
+    conda deactivate
     ```
 
 - 删除环境：`conda remove --name py35 --all`
