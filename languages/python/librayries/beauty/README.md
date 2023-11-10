@@ -1,0 +1,1 @@
+- [BeautyGAN](https://github.com/Honlan/BeautyGAN) - transfer the makeup style of a reference face image to a non-makeup face
