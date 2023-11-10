@@ -1,1 +1,3 @@
 - [BeautyGAN](https://github.com/Honlan/BeautyGAN) - transfer the makeup style of a reference face image to a non-makeup face
+- [RetouchML](https://github.com/ju-leon/RetouchML) - Enhances faces on images and automatically beautifies them using StyleGan2 and latent space exploration
+- [ffhqr-dataset](https://github.com/skylab-tech/ffhqr-dataset) - FFHQR -- the first large-scale retouching dataset for computer vision research.
