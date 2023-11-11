@@ -1,0 +1,2 @@
+- https://awesomecpp.com/
+- https://github.com/uhub/awesome-cpp

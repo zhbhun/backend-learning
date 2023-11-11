@@ -1,1 +1,5 @@
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+- https://github.com/ukoethe/vigra - a generic C++ library for image analysis
+- [TinyEXIF](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG.
+- [OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
+- [Magick++](https://imagemagick.org/api/Magick++/index.html)
