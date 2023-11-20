@@ -3,6 +3,7 @@
 ## 应用
 
 - [OptiClean](https://opticlean.io/)
+- [inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting tool powered by webgpu and wasm on the broswer.
 - https://cleanup.pictures/ - Retouch images in seconds with incredible quality
 
 ## 参考文献
