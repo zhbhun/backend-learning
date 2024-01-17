@@ -1,0 +1,1 @@
+- [DDColor](https://github.com/piddnad/DDColor) - [ICCV 2023] Official implementation of "DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders"
