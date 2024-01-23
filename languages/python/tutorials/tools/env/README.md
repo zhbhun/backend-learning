@@ -32,7 +32,7 @@ conda init zsh
     ```
 
 - 删除环境：`conda remove --name py35 --all`
-- 查看环境：`conda info -e`
+- 查看环境：`conda info -e` / `conda env list`
 - 更新 conda：`conda update conda`
 - 更新 python：`conda update python`
 
