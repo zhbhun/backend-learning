@@ -1,3 +1,4 @@
+- [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
 - [naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
