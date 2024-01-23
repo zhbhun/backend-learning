@@ -3,3 +3,4 @@
 - https://github.com/OPHoperHPO/image-background-remove-tool
 - [Android-CutOut](https://github.com/GabrielBB/Android-CutOut)
 - [image-matting](https://github.com/ihmily/image-matting)
+- [cv_unet_universal-matting](https://modelscope.cn/models/iic/cv_unet_universal-matting/summary)
