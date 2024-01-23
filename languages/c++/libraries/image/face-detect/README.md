@@ -1,0 +1,2 @@
+- [VNN](https://github.com/joyycom/VNN) - 人脸检测、识别类、分割类、风格类、其他
+- https://www.faceplusplus.com.cn/
