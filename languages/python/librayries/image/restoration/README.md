@@ -3,3 +3,4 @@
 ## 产品
 
 - [mewxai](https://www.mewxai.com/) - Upscale and enhance images to extreme detail
+- https://ai.nero.com/image-upscaler
