@@ -1,0 +1,1 @@
+- [anyhow](https://docs.rs/anyhow/latest/anyhow/) - This library provides anyhow::Error, a trait object based error type for easy idiomatic error handling in Rust applications.
