@@ -17,14 +17,12 @@ mod tests {
     #[test]
     fn test_temp_dir_path1() {
         let result = temp_dir_path1();
-        print!("temp_dir_path1: {}", result);
         assert_eq!(result.len() > 0, true);
     }
 
     #[test]
     fn test_temp_dir_path2() {
         let result = temp_dir_path1();
-        print!("temp_dir_path2: {}", result);
         assert_eq!(result.len() > 0, true);
     }
 }
