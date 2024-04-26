@@ -1,0 +1,3 @@
+- [serde](https://crates.io/crates/serde) - A generic serialization/deserialization framework
+- [serde_json](https://crates.io/crates/serde_json) - A JSON serialization file format
+- [serde_yml](https://crates.io/crates/serde_yml) - A robust Rust library that simplifies the serialization and deserialization of Rust data structures to and from YAML format using the widely-used Serde framework.

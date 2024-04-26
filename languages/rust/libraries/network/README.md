@@ -1,0 +1,1 @@
+- [reqwest](https://crates.io/crates/reqwest) - higher level HTTP client library

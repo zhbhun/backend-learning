@@ -1,2 +1,2 @@
 - [tempfile](https://docs.rs/tempfile/latest/tempfile/) - Temporary files and directories.
-
+- [mime_guess](https://crates.io/crates/mime_guess) - A simple crate for detection of a file's MIME type by its extension.
