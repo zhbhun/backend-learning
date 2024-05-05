@@ -11,6 +11,7 @@
 - [IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Text-to-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart. Objectives of the development are simplicity, modularity, controllability and multilinguality.
 - [VITS](https://huggingface.co/docs/transformers/model_doc/vits) - The VITS model was proposed in Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech by Jaehyeon Kim, Jungil Kong, Juhee Son.
 - [MeloTTS](https://huggingface.co/spaces/mrfakename/MeloTTS)
+- https://github.com/QwenLM/Qwen-Audio
 
 ---
 
