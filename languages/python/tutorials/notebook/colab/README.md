@@ -1,0 +1,2 @@
+- [Colab使用教程（超级详细版）及Colab Pro/Pro+评测](https://www.cnblogs.com/softcorns/p/16369045.html)
+- [Colab Pro 值得花 9.9$/mon 订阅吗？来看这篇完整评测](https://zhuanlan.zhihu.com/p/145929375)
