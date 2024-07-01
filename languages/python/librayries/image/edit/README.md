@@ -1,0 +1,1 @@
+- [MimicBrush](https://github.com/ali-vilab/MimicBrush?tab=readme-ov-file) - Zero-shot Image Editing with Reference Imitation
