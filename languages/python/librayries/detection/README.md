@@ -1,0 +1,3 @@
+- MidaPipe
+- https://github.com/facebookresearch/detectron2
+- [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow

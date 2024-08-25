@@ -1,1 +1,2 @@
 - [surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+- https://github.com/mindee/doctr
