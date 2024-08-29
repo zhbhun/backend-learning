@@ -1,1 +1,3 @@
 - [OpenCV Python Tutorials](https://opencv-python-tutorials.readthedocs.io/zh/latest/)
+- [learnopencv](https://learnopencv.com/)
+- [learnopencv](https://github.com/spmallick/learnopencv)
