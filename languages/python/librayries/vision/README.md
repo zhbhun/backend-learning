@@ -1,2 +1,3 @@
 - [vision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools.
 - [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
+- [mediapipe](https://github.com/google-ai-edge/mediapipe)
