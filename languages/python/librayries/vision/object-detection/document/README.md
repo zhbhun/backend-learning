@@ -8,6 +8,10 @@
   3. 选择四边形轮廓：从检测到的轮廓中选取最适合的四边形作为文档区域。
   4. 透视变换：使用 cv.getPerspectiveTransform 和 cv.warpPerspective 对文档进行矫正。
 
+  ---
+
+  - [Receipt OCR Part 1: Image segmentation by OpenCV](https://www.kaggle.com/code/dmitryyemelyanov/receipt-ocr-part-1-image-segmentation-by-opencv)
+
 - [Scikit-Image](https://github.com/scikit-image/scikit-image)：Python 的图像处理库，提供了多种图像处理算法。
 - PyTorch / TensorFlow：
 
