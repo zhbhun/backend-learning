@@ -20,3 +20,7 @@
 ---
 
 https://huggingface.co/blog/arena-tts
+
+---
+
+- [g2pW](https://github.com/GitYCC/g2pW) - Chinese Mandarin Grapheme-to-Phoneme Converter. 中文轉注音或拼音
