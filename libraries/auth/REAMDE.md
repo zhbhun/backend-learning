@@ -1,1 +1,2 @@
+- [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
